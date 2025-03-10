@@ -6,3 +6,4 @@
 - [ ] Andere Dinge ...
 
 # div Änderungen, Änderungen, Änderungen
+#close #ISSUE_NR 2
