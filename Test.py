@@ -5,7 +5,7 @@ zähl = 0
 for i in range(1, 10):
      fl = uniform(0, 10)
      if fl < 3:
-        print('Zufallsvariable ist kleiner 3:   ')
+        print('Ersatzvariable ist kleiner 3:   ')
         zähl += 1
      Nam = str(round(fl, 2))
      sum += fl 
